@@ -1,0 +1,5 @@
+Setting,Value;
+SecurityChip,Enable;
+SecureBoot,Enable;
+BootOrderLock,Enable;
+BootOrder,NVMe0:PCILAN:HDD0;
