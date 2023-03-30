@@ -1,7 +1,7 @@
-Setting,Value 
-SupervisorPassword,passwort123 
-BootOrderListPassword,passwort123 
-BootOrder,"SSD Drive,LAN,USB" 
-HardwareBinding,Enable,SSD 
-Fingerprint,Disable 
+Setting,Value
+SupervisorPassword,passwort123
+BootOrderListPassword,passwort123
+BootOrder,"SSD Drive,LAN,USB"
+HardwareBinding,Enable,SSD
+Fingerprint,Disable
 SmartCardReader,Disable
